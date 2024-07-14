@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maruf Hossain</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="center" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0nCxYUb1nHAwmOefrbNKtV&ust=1721059685777000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIij2cT1pocDFQAAAAAdAAAAABAE">
+<h3 align="center">A passionate Network Security Analyst  from Bangladesh</h3>
+<img align="center" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&s">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maruf96373&label=Profile%20views&color=0e75b6&style=flat" alt="maruf96373" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maruf96373" alt="maruf96373" /></a> </p>
